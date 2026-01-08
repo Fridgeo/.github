@@ -1,3 +1,0 @@
-# Fridgeo
-
-c bien
